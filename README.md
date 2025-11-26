@@ -100,7 +100,7 @@ Ensure code follows security best practices.
 
 Promote consistent formatting and naming conventions.
 
-Follow DRY & SOLID principles.
+Follow DRY principles.
 
 Reduce unnecessary complexity.
 
